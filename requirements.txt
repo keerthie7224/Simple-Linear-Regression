@@ -4,3 +4,4 @@ matplotlib
 train_test_split
 pandas
 numpy
+scikit-learn
