@@ -1,7 +1,6 @@
-seaborn 
 streamlit
-matplotlib
-train_test_split
-pandas
 numpy
+pandas
 scikit-learn
+matplotlib
+seaborn
